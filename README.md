@@ -44,4 +44,5 @@ Here's a good breakdown of the method:
 - http://augmentingcognition.com/ltm.html
 and the same guy has some great tips on it:
 - https://twitter.com/michael_nielsen/status/957763229454774272
-
+### Vim
+I'm not a fanboy I promise
