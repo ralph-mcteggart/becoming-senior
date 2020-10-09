@@ -31,6 +31,7 @@ This isn't a technical talk but here's some books I love:
 
 ### Misc.
 - [Surely You're Joking, Mr. Feynman](https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman) - not a book to learn from but a good intro to Feynman
+- [Striking Thoughts](https://www.goodreads.com/book/show/259311.Striking_Thoughts) - obviously a great martial artist but Bruce Lee was also a great philosopher. He talks a lot about the dangers of ego and how to better oneself. It's all snippets of various writings, organised by category, so it's very easy to dip in and out of.
 
 
 ## Tools
