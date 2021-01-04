@@ -1,5 +1,6 @@
 # becoming-senior
 A talk on what it takes to become a senior developer. Slides built using [mdx-deck](https://github.com/jxnblk/mdx-deck)
+Talk itself can be found on [youtube](https://youtu.be/rIzO7HdgiWs)
 
 
 # Run the slides
